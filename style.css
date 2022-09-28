@@ -1,0 +1,40 @@
+/* CSS follows rulesets */
+body{
+    background-color: #4472af;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    color:white
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
+
+p{
+    color:red;
+}
+#unique{
+    color:blue;
+}
+.menu-options {
+    list-style-type: disc;
+}
+.pstuff{
+    font-size: 20pt;
+}
+nav ul li{
+    list-style-type: disc;
+}
+.nav-link:hover {
+    color:#2980b9
+}
+.nav-link:clicked{
+color: red
+}
+nav{
+    !important;
+    margin: 25px;
+    padding: 25px;
+    border: 5px dotted
+}
